@@ -17,7 +17,7 @@
  color: #201d1f;
 }
   
-.statlist {
+.stat__list {
  list-style: none;
  width: 370px;
  display: flex;
@@ -40,4 +40,6 @@
  font-size: 20px;
  color: #201d1f;
 }
+
+
 
