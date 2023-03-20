@@ -15,7 +15,7 @@ export const App = () => {
       display: "flex",
       flexWrap: "wrap",
       flexDirection: "column",
-      gap: 70,
+      gap: 60,
       alignItems: "center",
       padding: 20,
       fontSize: 50,
