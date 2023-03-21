@@ -15,9 +15,9 @@ export function FriendList({ friends }) {
       ))}
     </ul>
   );
-}
+} 
 
-FriendList.prototype = {
+FriendList.PropTypes = {
   friends: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,
